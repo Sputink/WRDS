@@ -1,2 +1,2 @@
 # WRDS
-Sample Code
+[wrds](https://wrds-www.wharton.upenn.edu)
